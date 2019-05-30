@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="afsdafs" type="JAVA" />
       <mapping pattern="int" type="JAVA" />
+      <mapping ext="gradle.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
