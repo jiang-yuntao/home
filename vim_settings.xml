@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/IdeaProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.java" timestamp="1560070997387">
-        <mark key="'" line="21" column="7" />
+        <mark key="'" line="37" column="7" />
         <mark key="[" line="12" column="52" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyApplication/app/src/main/res/layout/content_main.xml" timestamp="1560070710034">
@@ -23,6 +23,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled/src/hello.java" timestamp="1554624570587">
         <mark key="[" line="6" column="25" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/MyApplication/app/src/main/java/MainActivity.java" timestamp="1560071724508">
+        <mark key="[" line="0" column="26" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/int/src/site/yan/teng/site/yan/teng/work/work3.java" timestamp="1555828987227">
         <mark key="[" line="4" column="0" />
